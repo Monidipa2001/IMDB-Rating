@@ -1,3 +1,19 @@
+🎥 IMDb Ratings SQL Project 
+
+Explore the world of movies through the lens of SQL queries with this project dedicated to analyzing and querying IMDb ratings data. This repository contains a set of SQL scripts and documentation for extracting valuable insights from the IMDb database.
+
+Key Features:
+
+Data Exploration: Dive into IMDb ratings data using SQL queries to uncover patterns, trends, and notable statistics.
+
+Query Optimization: Learn how to write efficient SQL queries for complex analyses, ensuring fast and reliable results.
+
+Rating Trends: Investigate how movie ratings change over time, by genre, or other relevant factors.
+
+Documentation: Detailed explanations and examples to guide you through the SQL queries and their interpretations.
+
+
+
 **Contents of the dataset** 
 
 Series_Title 
